@@ -1,0 +1,5 @@
+project: jacob-clemente/minlzma
+target: minlzma
+
+cmds:
+  - cmd: /minlzma @@ out
